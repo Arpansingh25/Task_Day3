@@ -1,1 +1,1 @@
-print("Good Bye")
+print("Good Bye. Have a nice day❤️❤️❤️❤️")
